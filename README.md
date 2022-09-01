@@ -28,7 +28,7 @@
 
 ### 预览
 1. 登录页
-![登录页](./docs/images/docs-1.png)
+![登录页](https://www.faxwo.com/ERP-Yii/docs/images/docs-1.png)
 2. 数据显示
 ![数据显示](./docs/images/docs-2-1.png)
 ![数据显示](./docs/images/docs-2-2.png)
