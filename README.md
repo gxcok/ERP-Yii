@@ -30,12 +30,12 @@
 1. 登录页
 ![登录页](https://www.faxwo.com/ERP-Yii/docs/images/docs-1.png)
 2. 数据显示
-![数据显示](./docs/images/docs-2-1.png)
-![数据显示](./docs/images/docs-2-2.png)
+![数据显示](https://www.faxwo.com/ERP-Yii/docs/images/docs-2-1.png)
+![数据显示](https://www.faxwo.com/ERP-Yii/docs/images/docs-2-2.png)
 3. 权限分配
-![数据显示](./docs/images/docs-3-1.png)
+![数据显示](https://www.faxwo.com/ERP-Yii/docs/images/docs-3-1.png)
 4. 材料库管理
-![数据显示](./docs/images/docs-4-1.png)
+![数据显示](https://www.faxwo.com/ERP-Yii/docs/images/docs-4-1.png)
 目录结构
 -------------------
 
