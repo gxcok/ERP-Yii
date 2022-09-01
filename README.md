@@ -16,7 +16,7 @@
 2. 根据yii2框架配置项目目录xxx.com/backend/web,设置rewrite：
 ```
    location / {
-   try_files $uri $uri/ /index.php$is_args$args;
+       try_files $uri $uri/ /index.php$is_args$args;
    }
 ```   
 * 后台默认超级管理员账号：super 密码：123456
